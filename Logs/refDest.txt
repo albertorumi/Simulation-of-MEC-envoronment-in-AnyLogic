@@ -1,0 +1,6 @@
+Name,DestinationLat,DestinationLong
+Stadium,45.709309,9.680858
+Hospital,45.684364,9.639519
+LowerTown,45.694356,9.669417
+UpperTown,45.703495,9.664042
+Station,45.691518,9.676253
